@@ -15,9 +15,9 @@
         "Claim",
         "Buzz"
     ],
-    "firstname" : "Harry",
+    "firstname" : "Harry ",
     "lastname" : "Potter",
-    "user" : "harrypotter",
+    "user" : "harry potter",
     "password" : "Harry123",
     "fullname" : "Harry Potter"
 }
